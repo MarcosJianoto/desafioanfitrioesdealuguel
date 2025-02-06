@@ -25,7 +25,7 @@ Como Rodar o Projeto
 Backend - Spring Boot
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/MarcosJianoto/desafioanfitrioesdealuguel.git
 cd seu-repositorio/backend
 
 
